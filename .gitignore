@@ -4,8 +4,4 @@ __pycache__/
 build/
 dist/
 .venv/
-.pytest_cache/
 .DS_Store
-# local alarm files used while demoing
-*.alarms.json
-demo-alarms.json
